@@ -1,2 +1,5 @@
-print(666)
-#这是一个python文件
+#include<stdio.h>
+int main {
+printf("Hello world!");
+}
+//这是一个C语言文件
