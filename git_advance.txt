@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main {
+int a;
 printf("Hello world!");
+a = getch()
 }
 //这是一个C语言文件
